@@ -1,5 +1,5 @@
 # Implementing VICReg-from-scratch
-### A Self-Supervised Joint-Embedding Non-Contrastive Framework for learning useful image Representations.
+### A Self-Supervised Joint-Embedding Non-Contrastive Framework for learning useful Representations.
 ### VICReg is a Self-Supervised Joint-Embedding Architecture that jointly implements a Variance, Invariance, and Covariance loss in an effort to prevent latent embedding collapse using a non-contrastive approach.
 ### Following the original VICReg paper, I replicated the proposed architecture on my dataset of choice.
 ## Methods:
