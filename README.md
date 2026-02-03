@@ -12,3 +12,4 @@
 ### Linear-Probed VICReg achieved 74.5% Accuracy.
 ### Simple Linear Classifier achieved 28.9% Accuracy.
 ### Shows that the VICReg Encoder learned useful image representations from Self-Supervised Pretraining.
+#### Unfortunately, I can't upload the saved pretrained VICReg model here, because of the size. If you want to reproduce this work, you'll have to run the pretraining code too. (all included in the main code body). Ciao!
